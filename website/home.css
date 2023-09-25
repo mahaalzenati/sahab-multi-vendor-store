@@ -1,0 +1,32 @@
+.header-line{
+    height: 5px;
+    background: linear-gradient(to right, rgba(255,208,7) 0%, rgba(255,208,7) 12.5%,rgba(192,156,221,1) 62.5%, rgba(192,156,221,1) 75%);
+}
+
+.main{
+    background-image: url('https://accord.ps/Modules/Website/Resources/assets/images/slider-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 360px;
+}
+#btn{
+    background-color: #7600d9;
+    height: 48px;
+}
+.footer-line{
+    height: 10px;
+    background: linear-gradient(to right, rgba(255,208,7) 0%, rgba(255,208,7) 12.5%,rgba(192,156,221,1) 62.5%, rgba(192,156,221,1) 75%);
+}
+
+.dropdown-menu{
+    float: unset;
+    right: 0;
+    min-width: 57rem;
+    top: 140%;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+       -webkit-appearance: none;
+        margin: 0;
+}

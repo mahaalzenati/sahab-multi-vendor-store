@@ -1,0 +1,37 @@
+.header-line{
+    height: 5px;
+    background: linear-gradient(to right, rgba(255,208,7) 0%, rgba(255,208,7) 12.5%,rgba(192,156,221,1) 62.5%, rgba(192,156,221,1) 75%);
+}
+.dropdown-menu{
+    float: unset;
+    right: 0;
+    min-width: 57rem;
+    top: 140%;
+}
+#img1{
+    background-image: url('https://accordpal.com/storage/app/public/6960/conversions/83098745_865228797320320_8855934933935370518_o-thumb.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+#img3{
+    background-image: url('https://accordpal.com/storage/app/public/20935/conversions/03123f6b01a70166cd2656db490c3e52-thumb.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+a:link{
+    text-decoration: none;
+}
+#image{
+    background-image: url('https://accordpal.com/storage/app/public/31413/conversions/ab0bc4b9440562bfaf2b1049b1aa5dda-thumb.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.footer-line{
+    height: 10px;
+    background: linear-gradient(to right, rgba(255,208,7) 0%, rgba(255,208,7) 12.5%,rgba(192,156,221,1) 62.5%, rgba(192,156,221,1) 75%);
+}
+
