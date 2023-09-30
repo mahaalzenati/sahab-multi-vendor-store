@@ -34,4 +34,10 @@ a:link{
     height: 10px;
     background: linear-gradient(to right, rgba(255,208,7) 0%, rgba(255,208,7) 12.5%,rgba(192,156,221,1) 62.5%, rgba(192,156,221,1) 75%);
 }
+.dropdown-menu{
+    float: unset;
+    right: 0;
+    min-width: 57rem;
+    top: 140%;
+}
 
